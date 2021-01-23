@@ -1,0 +1,18 @@
+﻿  stdafx.cpp
+  dllmain.cpp
+  ExampleTemplate.cpp
+C:\Users\CodenameGamma\source\repos\CustomClass2020Test\CustomClass2020Test\include\SonicMania.h(758,1): warning C4244: '*=': conversion from 'float' to 'byte', possible loss of data
+C:\Users\CodenameGamma\source\repos\CustomClass2020Test\CustomClass2020Test\include\SonicMania.h(759,1): warning C4244: '*=': conversion from 'float' to 'byte', possible loss of data
+C:\Users\CodenameGamma\source\repos\CustomClass2020Test\CustomClass2020Test\include\SonicMania.h(760,1): warning C4244: '*=': conversion from 'float' to 'byte', possible loss of data
+C:\Users\CodenameGamma\source\repos\CustomClass2020Test\CustomClass2020Test\include\SonicMania.h(765,27): warning C4244: '=': conversion from 'float' to 'byte', possible loss of data
+C:\Users\CodenameGamma\source\repos\CustomClass2020Test\CustomClass2020Test\include\SonicMania.h(766,27): warning C4244: '=': conversion from 'float' to 'byte', possible loss of data
+C:\Users\CodenameGamma\source\repos\CustomClass2020Test\CustomClass2020Test\include\SonicMania.h(767,27): warning C4244: '=': conversion from 'float' to 'byte', possible loss of data
+C:\Users\CodenameGamma\source\repos\CustomClass2020Test\CustomClass2020Test\include\SonicMania.h(772,37): warning C4244: '=': conversion from 'float' to 'byte', possible loss of data
+C:\Users\CodenameGamma\source\repos\CustomClass2020Test\CustomClass2020Test\include\SonicMania.h(773,37): warning C4244: '=': conversion from 'float' to 'byte', possible loss of data
+C:\Users\CodenameGamma\source\repos\CustomClass2020Test\CustomClass2020Test\include\SonicMania.h(774,37): warning C4244: '=': conversion from 'float' to 'byte', possible loss of data
+     Creating library C:\Users\CodenameGamma\source\repos\CustomClass2020Test\Release\CustomClass2020Test.lib and object C:\Users\CodenameGamma\source\repos\CustomClass2020Test\Release\CustomClass2020Test.exp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 120 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  CustomClass2020Test.vcxproj -> C:\Users\CodenameGamma\source\repos\CustomClass2020Test\Release\CustomClass2020Test.dll
