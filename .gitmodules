@@ -1,0 +1,6 @@
+[submodule "mania-mod-loader"]
+	path = mania-mod-loader
+	url = https://github.com/sonicretro/mania-mod-loader
+[submodule "ManiaAPI"]
+	path = ManiaAPI
+	url = https://github.com/thesupersonic16/ManiaAPI
